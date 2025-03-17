@@ -1,6 +1,6 @@
-# ¡Bienvenido!
+# ¡Welcome!
 
-[Ir a mi página de contacto](https://eeceron.github.io/Eduardo-CG/main.html)
+[Web site](https://eeceron.github.io/Eduardo-CG/main.html)
 
 <!---
 eeceron/eeceron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
