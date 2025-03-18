@@ -21,7 +21,7 @@ This repository will serve as a platform to share my progress, research projects
 
 Feel free to explore and connect!
 
-[Web site](https://eeceron.github.io/Eduardo-CG/main.html)
+[Web site](https://eeceron.github.io/Eduardo-CG/index.html)
 
 <!---
 eeceron/eeceron is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
